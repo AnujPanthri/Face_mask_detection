@@ -4,4 +4,4 @@
 ![](/loss.jpg)
 
 ![](/out.jpg)
-![](/out (1).jpg)
+![](/out%20(1).jpg)
